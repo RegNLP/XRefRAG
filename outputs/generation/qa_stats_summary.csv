@@ -1,0 +1,3 @@
+path,count,personas_professional,personas_basic,methods_DPEL,methods_SCHEMA,missing_tags_cnt,citation_q_cnt,bad_debug_cnt,dups_within_file,qlen_min,qlen_max,qlen_avg,qlen_median,alen_min,alen_max,alen_avg,alen_median
+outputs/generation/dpel/all/answers.jsonl,1774,886,888,1774,0,0,389,0,0,56,344,170.28,167.00,243,1292,607.66,583.50
+outputs/generation/schema/all/answers_nociteQ.jsonl,1661,829,832,0,1661,0,101,0,0,64,325,165.50,162.00,179,1363,900.26,903.00

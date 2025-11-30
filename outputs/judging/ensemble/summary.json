@@ -1,0 +1,28 @@
+{
+  "total": 3435,
+  "fused_passed": 2620,
+  "avg_fused_score": 7.912,
+  "avg_fused_realism": 1.87,
+  "avg_fused_dual_use": 3.255,
+  "avg_fused_correctness": 3.031,
+  "by_method": {
+    "DPEL": {
+      "count": 1774,
+      "pass": 1659
+    },
+    "SCHEMA": {
+      "count": 1661,
+      "pass": 961
+    }
+  },
+  "by_persona": {
+    "professional": {
+      "count": 1715,
+      "pass": 1292
+    },
+    "basic": {
+      "count": 1720,
+      "pass": 1328
+    }
+  }
+}

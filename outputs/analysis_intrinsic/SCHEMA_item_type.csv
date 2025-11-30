@@ -1,0 +1,9 @@
+item_type | generated | kept | eliminated | ir_good | qa_gold
+---------------------------------------------------------------
+Definition | 118 | 52 | 66 | 49 | 15
+Obligation | 641 | 394 | 247 | 376 | 109
+Other | 12 | 6 | 6 | 6 | 0
+Permission | 224 | 157 | 67 | 152 | 22
+Procedure | 305 | 148 | 157 | 142 | 21
+Prohibition | 132 | 87 | 45 | 83 | 22
+Scope | 229 | 117 | 112 | 110 | 18

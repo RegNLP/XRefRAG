@@ -1,0 +1,5 @@
+final_mean,final_median,method,pass_rate_%,passed,reference_type,total
+8.755,9.0,DPEL,89.67,512,External,571
+8.992,9.0,DPEL,95.34,1147,Internal,1203
+6.963,9.0,SCHEMA,58.46,318,External,544
+6.78,9.0,SCHEMA,57.56,643,Internal,1117

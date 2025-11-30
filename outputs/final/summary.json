@@ -1,0 +1,40 @@
+{
+  "DPEL": {
+    "counts": {
+      "kept": 1659,
+      "ir_good": 1586,
+      "qa_gold": 160
+    },
+    "splits": {
+      "ir": {
+        "train": 1269,
+        "dev": 159,
+        "test": 158
+      },
+      "qa": {
+        "train": 128,
+        "dev": 16,
+        "test": 16
+      }
+    }
+  },
+  "SCHEMA": {
+    "counts": {
+      "kept": 961,
+      "ir_good": 918,
+      "qa_gold": 102
+    },
+    "splits": {
+      "ir": {
+        "train": 734,
+        "dev": 92,
+        "test": 92
+      },
+      "qa": {
+        "train": 82,
+        "dev": 10,
+        "test": 10
+      }
+    }
+  }
+}

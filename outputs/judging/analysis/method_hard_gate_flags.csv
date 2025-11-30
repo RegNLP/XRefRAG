@@ -1,0 +1,5 @@
+count,flag,method
+878,hard_gate_fail,DPEL
+849,question_has_citation,DPEL
+2640,hard_gate_fail,SCHEMA
+2316,question_has_citation,SCHEMA

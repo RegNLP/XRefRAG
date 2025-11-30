@@ -1,0 +1,22 @@
+group | field | count | mean | median | std | min | max
+---------------------------------------------------------
+generated | question_tokens | 1661 | 26.228 | 26.000 | 6.359 | 10.000 | 51.000
+generated | question_chars | 1661 | 165.497 | 162.000 | 43.512 | 64.000 | 325.000
+generated | answer_tokens | 1661 | 125.579 | 127.000 | 21.404 | 18.000 | 192.000
+generated | answer_chars | 1661 | 900.260 | 903.000 | 161.394 | 179.000 | 1363.000
+kept | question_tokens | 961 | 26.471 | 26.000 | 6.474 | 10.000 | 51.000
+kept | question_chars | 961 | 166.891 | 162.000 | 44.778 | 66.000 | 325.000
+kept | answer_tokens | 961 | 125.798 | 127.000 | 20.641 | 52.000 | 184.000
+kept | answer_chars | 961 | 898.490 | 898.000 | 155.621 | 387.000 | 1344.000
+eliminated | question_tokens | 700 | 25.893 | 25.000 | 6.182 | 10.000 | 50.000
+eliminated | question_chars | 700 | 163.584 | 160.000 | 41.636 | 64.000 | 306.000
+eliminated | answer_tokens | 700 | 125.279 | 126.000 | 22.405 | 18.000 | 192.000
+eliminated | answer_chars | 700 | 902.690 | 910.000 | 168.969 | 179.000 | 1363.000
+ir_good | question_tokens | 918 | 26.607 | 26.000 | 6.449 | 10.000 | 51.000
+ir_good | question_chars | 918 | 167.942 | 165.000 | 44.714 | 66.000 | 325.000
+ir_good | answer_tokens | 918 | 126.110 | 127.000 | 20.679 | 52.000 | 184.000
+ir_good | answer_chars | 918 | 901.273 | 903.000 | 155.823 | 387.000 | 1344.000
+qa_gold | question_tokens | 207 | 27.411 | 26.000 | 6.280 | 12.000 | 45.000
+qa_gold | question_chars | 207 | 174.928 | 171.000 | 43.184 | 80.000 | 325.000
+qa_gold | answer_tokens | 207 | 125.894 | 127.000 | 18.664 | 70.000 | 171.000
+qa_gold | answer_chars | 207 | 913.734 | 924.000 | 146.329 | 551.000 | 1226.000

@@ -1,0 +1,10 @@
+{
+  "input_rows": 1627,
+  "items_emitted": 852,
+  "skipped_rows": 775,
+  "title_targets_seen": 617,
+  "drop_title_targets": true,
+  "model": "gpt-4o",
+  "timestamp": "2025-10-28T18:48:08+00:00",
+  "errors_logged": 0
+}

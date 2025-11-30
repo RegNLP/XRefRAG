@@ -1,0 +1,33 @@
+{
+  "by_method": {
+    "DPEL": {
+      "kept": 1659,
+      "eliminated": 115,
+      "total": 1774,
+      "pass_rate": 93.52
+    },
+    "SCHEMA": {
+      "kept": 961,
+      "eliminated": 700,
+      "total": 1661,
+      "pass_rate": 57.86
+    }
+  },
+  "by_persona": {
+    "professional": {
+      "kept": 1292,
+      "eliminated": 423,
+      "total": 1715
+    },
+    "basic": {
+      "kept": 1328,
+      "eliminated": 392,
+      "total": 1720
+    }
+  },
+  "totals": {
+    "judged": 3435,
+    "kept": 2620,
+    "eliminated": 815
+  }
+}

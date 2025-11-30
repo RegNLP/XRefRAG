@@ -1,0 +1,17 @@
+{
+  "file": "outputs/rag/schema_kept_bge_k4_gpt4o_full.jsonl",
+  "total_items": 961,
+  "ok_items": 961,
+  "f1_mean": 0.4976536020509251,
+  "rouge_l_f1_mean": 0.3156779148932311,
+  "use_llm_judge": true,
+  "judge_model": "gpt-4o-mini",
+  "gpt_answer_relevance_mean": 4.477627471383975,
+  "gpt_answer_faithfulness_mean": 3.608740894901145,
+  "use_nli": true,
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "nli_entailment_mean": 0.26619712323867256,
+  "nli_contradiction_mean": 0.010541859314737584,
+  "reused_items": 961,
+  "fresh_items": 0
+}

@@ -1,0 +1,13 @@
+{
+  "rows_loaded": 852,
+  "kept_candidates": 838,
+  "pairs_processed": 838,
+  "qas_created": 1661,
+  "dropped_dupe_qs": 4,
+  "skipped_empty_text": 0,
+  "skipped_model_fail": 0,
+  "skipped_title_targets": 0,
+  "skipped_degenerate": 14,
+  "model": "gpt-4o",
+  "dual_anchors_mode": "freeform_only"
+}

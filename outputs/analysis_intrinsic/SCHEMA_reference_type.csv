@@ -1,0 +1,4 @@
+reference_type | generated | kept | eliminated | ir_good | qa_gold
+--------------------------------------------------------------------
+External | 544 | 318 | 226 | 292 | 62
+Internal | 1117 | 643 | 474 | 626 | 145

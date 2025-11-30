@@ -1,0 +1,4 @@
+persona | generated | kept | eliminated | ir_good | qa_gold
+-------------------------------------------------------------
+basic | 832 | 495 | 337 | 461 | 90
+professional | 829 | 466 | 363 | 457 | 117

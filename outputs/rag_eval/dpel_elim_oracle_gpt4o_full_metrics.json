@@ -1,0 +1,17 @@
+{
+  "file": "outputs/rag/dpel_elim_oracle_gpt4o_full.jsonl",
+  "total_items": 115,
+  "ok_items": 115,
+  "f1_mean": 0.5209143419274131,
+  "rouge_l_f1_mean": 0.388857028234459,
+  "use_llm_judge": true,
+  "judge_model": "gpt-4o-mini",
+  "gpt_answer_relevance_mean": 4.852173913043479,
+  "gpt_answer_faithfulness_mean": 4.165217391304348,
+  "use_nli": true,
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "nli_entailment_mean": 0.3139414626882568,
+  "nli_contradiction_mean": 0.03240489479212899,
+  "reused_items": 115,
+  "fresh_items": 0
+}

@@ -1,0 +1,10 @@
+{
+  "aggregate": {
+    "k": 10,
+    "num_queries": 0,
+    "mean_recall": null,
+    "mean_map": null,
+    "mean_ndcg": null
+  },
+  "per_query": {}
+}

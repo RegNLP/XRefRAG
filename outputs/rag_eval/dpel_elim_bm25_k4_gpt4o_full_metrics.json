@@ -1,0 +1,17 @@
+{
+  "file": "outputs/rag/dpel_elim_bm25_k4_gpt4o_full.jsonl",
+  "total_items": 115,
+  "ok_items": 115,
+  "f1_mean": 0.39588538563457765,
+  "rouge_l_f1_mean": 0.2840837720242501,
+  "use_llm_judge": true,
+  "judge_model": "gpt-4o-mini",
+  "gpt_answer_relevance_mean": 4.156521739130435,
+  "gpt_answer_faithfulness_mean": 3.226086956521739,
+  "use_nli": true,
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "nli_entailment_mean": 0.227924264134076,
+  "nli_contradiction_mean": 0.030851911518890104,
+  "reused_items": 115,
+  "fresh_items": 0
+}

@@ -1,0 +1,17 @@
+{
+  "file": "outputs/rag/schema_elim_bm25_e5_rerank_k4_gpt4o_full.jsonl",
+  "total_items": 700,
+  "ok_items": 700,
+  "f1_mean": 0.4771726166230795,
+  "rouge_l_f1_mean": 0.2948769636206145,
+  "use_llm_judge": true,
+  "judge_model": "gpt-4o-mini",
+  "gpt_answer_relevance_mean": 4.377142857142857,
+  "gpt_answer_faithfulness_mean": 3.44,
+  "use_nli": true,
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "nli_entailment_mean": 0.2608758624358835,
+  "nli_contradiction_mean": 0.016019642706490703,
+  "reused_items": 700,
+  "fresh_items": 0
+}

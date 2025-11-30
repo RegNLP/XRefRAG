@@ -1,0 +1,9 @@
+{
+  "num_pairs": 248,
+  "token_f1_mean": 0.4251054218843915,
+  "rouge_l_f1_mean": 0.31543713167371285,
+  "nli_entail_frac_mean": 0.32905495042591815,
+  "nli_contra_frac_mean": 0.0815668202764977,
+  "answer_relevance_mean": 4.17741935483871,
+  "answer_faithfulness_mean": 3.120967741935484
+}

@@ -1,0 +1,4 @@
+correct_mean,dual_mean,final_iqr,final_mean,final_median,final_std,majority_2to1,model,n_judgments,pass_rate,realism_mean,unanimity_no,unanimity_yes
+2.953,3.143,0.0,7.966,9.0,2.516,,gpt-4.1-mini,6870,77.61,1.87,,
+3.155,3.689,8.0,3.313,0.0,4.296,,gpt-4o-mini,3435,29.46,1.87,,
+,,,,,,1770,__ensemble_level__,3435,,,688,977
